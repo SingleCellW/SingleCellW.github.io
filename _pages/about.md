@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 'PhD Candidate | Robotics | wukf<img src="assets/img/icons/at.svg" alt="at" style="height: 0.9em; width: 0.9em; object-fit: contain; margin: 0 0.12em; vertical-align: -0.08em">shanghaitech.edu.cn'
 
 profile:
   align: right
